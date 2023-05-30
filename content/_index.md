@@ -30,10 +30,17 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      text: 
+       ### University of Chicago (TA)
+        - **Spatial Economics** (PhD) for E. Rossi-Hansberg
+        - **Theory of Income III** (PhD) for F. Alvarez
+        - **International Trade** (U) for F. Tintelnot
+        - **Managing the Firm in the Global Economy** (MBA) for J. Dingel
+        - **Financial Markets in the Macroeconomy** (PhD) for V. Guerrieri
+        - **International Financial Policy** (MBA) for R. Kekre
+
+       ### Duke University (TA)
+        - **Intermediate Macroeconomics** (U) for M. Connolly
       filters:
         folders:
           - publication
