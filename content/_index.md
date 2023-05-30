@@ -30,8 +30,8 @@ sections:
     id: section-1
     content:
       title: Teaching
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: ### The Pennsylvania State University
+      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       columns: '2'
 ---
