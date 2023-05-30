@@ -30,7 +30,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: 
+      text: The Pennsylvania State University
        ### University of Chicago (TA)
     design:
       columns: '2'
