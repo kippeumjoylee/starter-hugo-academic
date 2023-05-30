@@ -37,7 +37,14 @@ sections:
         </ul>
         <h3>The Pennsylvania State University (TA)</h3>
         <ul>
-          <li>**Econometrics** (PhD) for J. Pinkse</li> 
+          <li><strong>Econometrics</strong> (PhD) for J. Pinkse</li>
+          <li><strong>Econometrics</strong> (PhD) for P. Guggenberger</li>
+          <li><strong>Money and Banking</strong> (U) for R. Chuderewicz</li>
+        </ul>
+        <h3>Korea University (TA)</h3>
+        <ul>
+          <li><strong>Micro-econometrics</strong> (G) for M.J. Lee</li>
+          <li><strong>Econometrics I</strong> (U) for M.J. Lee</li>
         </ul>
     design:
       columns: '2'
