@@ -31,9 +31,14 @@ sections:
     content:
       title: Teaching
       text: 
-        <h3>The Pennsylvania State University</h3>
-        test test <br>
-        Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        <h3>The Pennsylvania State University (Instructor)</h3>
+        <ul>
+          <li>Introduction to Econometrics (U)</li>
+        </ul>
+        <h3>The Pennsylvania State University (TA)</h3>
+        <ul>
+          <li>**Econometrics** (PhD) for J. Pinkse</li> 
+        </ul>
     design:
       columns: '2'
 ---
