@@ -8,7 +8,7 @@
 appearance:
   theme_day: light
   theme_night: 
-  font: rose
+  font: classic
   font_size: m
 
 # SEO
