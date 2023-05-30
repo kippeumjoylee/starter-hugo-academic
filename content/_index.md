@@ -31,9 +31,11 @@ sections:
     content:
       title: Teaching
       text: 
+        --- 
         ### The Pennsylvania State University
         test test 
         Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        ---
     design:
       columns: '2'
 ---
