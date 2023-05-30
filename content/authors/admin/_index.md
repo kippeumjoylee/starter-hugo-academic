@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "kul598@psu.edu"
+    link: "mailto:kul598@psu.edu"
     # link: '#contact'
   - icon: twitter
     icon_pack: fab
@@ -80,7 +80,8 @@ highlight_name: true
 
 Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/). My research focuses on the area of **networking** with the applications in **industrial organization** and **auction**, and **networking econometric theory**, with a particular focus on interfirm networks.
 
-I will be on the job market for the 2023-24 academic year. 
+I will be on the job market for the 2023-24 academic year.
 
-My CV is available here.
+My CV is available [here](https://www.kippeumjoylee.netlify.app/uploads/CV_KippeumLee.pdf). Reach me at kul598@psu.edu.
+
 {style="text-align: justify;"}
