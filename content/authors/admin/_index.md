@@ -19,7 +19,7 @@ role: Ph.D. candidate in Economics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The Pennsylvania State University
-    url: https://econ.la.psu.edu/
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -50,7 +50,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "kul598@psu.edu"
+    # link: '#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -77,5 +78,9 @@ email: 'kul598@psu.edu'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/). My research focuses on the area of **networking** with the applications in **industrial organization** and **auction**, and **networking econometric theory**, with a particular focus on interfirm networks.
+
+I will be on the job market for the 2023-24 academic year. 
+
+My CV is available here.
 {style="text-align: justify;"}
