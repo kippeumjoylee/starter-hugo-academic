@@ -27,7 +27,7 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
-    id: section-1
+    id: teaching
     content:
       title: Teaching
       text: 
