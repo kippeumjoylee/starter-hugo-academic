@@ -8,7 +8,7 @@
 appearance:
   theme_day: light
   theme_night: 
-  font: rose
+  font: cyberpunk
   font_size: m
 
 # SEO
