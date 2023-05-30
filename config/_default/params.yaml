@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: light
-  theme_night: light
+  theme_night: 
   font: classic
   font_size: L
 
