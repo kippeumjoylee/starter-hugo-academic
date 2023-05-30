@@ -2,7 +2,7 @@
 name = "custom"
 
 # Optional Google font URL
-google_fonts = "Cutive+Mono|Merriweather|Roboto:400,700"
+google_fonts = "Cutive+Mono|Lora:400,700|Merriweather"
 
 # Font families
 heading_font = "Lora"
