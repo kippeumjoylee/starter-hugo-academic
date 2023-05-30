@@ -31,8 +31,8 @@ sections:
     content:
       title: Teaching
       text: 
-        ### The Pennsylvania State University
-        test test \\
+        <h3>The Pennsylvania State University</h3>
+        test test <br>
         Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       columns: '2'
