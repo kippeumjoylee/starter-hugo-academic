@@ -26,13 +26,10 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: teaching
+  - block: markdown
+    id: section-1
     content:
       title: Teaching
-      text: The Pennsylvania State University
-       ### University of Chicago (TA)
-    design:
-      columns: '2'
-      view: citation
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
