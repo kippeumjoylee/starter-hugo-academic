@@ -36,7 +36,7 @@ education:
     - course: Ph.D. in Economics (expected)
       institution: The Pennsylvania State University
       year: 2024
-    - course: M.S. in Economics
+    - course: M.A. in Economics
       institution: Korea University 
       year: 2018
     - course: B.S. in Economics
