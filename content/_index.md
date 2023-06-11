@@ -33,7 +33,7 @@ sections:
       text: 
         <h3>The Pennsylvania State University (Instructor)</h3>
         <ul>
-          <li>Introduction to Econometrics (U), 2022 Summer</li>
+          <li>Introduction to Econometrics (U), Summer 2022</li>
         </ul>
         <h3>The Pennsylvania State University (TA)</h3>
         <ul>
