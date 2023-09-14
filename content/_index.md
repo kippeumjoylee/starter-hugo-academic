@@ -28,7 +28,7 @@ sections:
     content:
       title: Research
       text: 
-         <h2>Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. firms.</h2>
+         
     design:
       columns: '2'
   - block: markdown
