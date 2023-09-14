@@ -29,7 +29,7 @@ sections:
       title: Research
       text:
         <h3>Working papers</h3>
-        ''Strategic Network Decisions and Knowledge Spillovers: ''
+        ''Strategic Network Decisions and Knowledge Spillovers&#58; Evidence from R&amp;D Collaborations of the U.S. firms''
         <h3>Work in progress</h3> 
     design:
       columns: '2'
