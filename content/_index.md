@@ -27,7 +27,8 @@ sections:
     id: paper
     content:
       title: Research
-      text: 
+      text:
+        hi
          
     design:
       columns: '2'
