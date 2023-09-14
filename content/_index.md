@@ -16,9 +16,13 @@ sections:
     content:
       title: Research
       text: 
-       <h1>"Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. firms" (Job market paper)</h1>
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
+      view: citation
   - block: markdown
     id: teaching
     content:
