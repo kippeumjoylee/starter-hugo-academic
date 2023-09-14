@@ -24,9 +24,9 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
-    id: test
+    id: paper
     content:
-      title: test
+      title: Research
       text: 
         <h3>The Pennsylvania State University (Instructor)</h3>
         <ul>
