@@ -28,7 +28,7 @@ sections:
     content:
       title: Research
       text:
-        hi
+        "Strategic Network Decisions and Knowledge Spillovers"
          
     design:
       columns: '2'
