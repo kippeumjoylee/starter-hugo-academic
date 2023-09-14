@@ -28,8 +28,9 @@ sections:
     content:
       title: Research
       text:
+        <h3>Working papers</h3>
         "Strategic Network Decisions and Knowledge Spillovers"
-         
+        <h3>Work in progress</h3> 
     design:
       columns: '2'
   - block: markdown
