@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. firms"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
