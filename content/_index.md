@@ -11,7 +11,7 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+  - block: markdown
     id: research
     content:
       title: Research
@@ -19,7 +19,6 @@ sections:
        <h1>"Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. firms" (Job market paper)</h1>
     design:
       columns: '2'
-      view: citation
   - block: markdown
     id: teaching
     content:
