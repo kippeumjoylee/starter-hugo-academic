@@ -19,9 +19,9 @@ sections:
         <h2>Working papers</h2>
         <h3>Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. firms &#40;Job market papaer&#41</h3>
         <button id="toggleAbstract">Show Abstract</button>
-        <div id="abstract" style="display: none;">
-          Your abstract content here...
-        </div>
+          <div id="abstract" style="display: none;">
+            Your abstract content here...
+          </div>
         <h3>Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions</h3>
         <h2>Work in progress</h2> 
     design:
