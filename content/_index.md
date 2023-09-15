@@ -11,25 +11,13 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: collection
-    id: research
-    content:
-      title: Research
-      text: 
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: markdown
     id: research
     content:
       title: Research
       text:
         <h3>Working papers</h3>
-        "Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. firms" \(Job market paper\)
+        "Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. firms" , Job market paper
         <h3>Work in progress</h3> 
     design:
       columns: '2'
