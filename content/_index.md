@@ -18,6 +18,7 @@ sections:
       text:
         <h3>Working papers</h3>
         "Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. firms", &#40;Job market papaer&#41;
+        "Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions", with Jimin Oh
         <h3>Work in progress</h3> 
     design:
       columns: '2'
