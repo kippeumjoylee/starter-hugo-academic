@@ -18,7 +18,7 @@ sections:
       text:
         <h2>Working papers</h2>
         <h3>Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. firms &#40;Job market papaer&#41</h3>
-        <span id="toggleText" style="cursor:pointer; color:blue; text-decoration:underline;">Click me to toggle content</span>
+        <button id="toggleButton">>abstract</button>
         <h3>Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions</h3>
         with Jimin Oh
         <h2>Work in progress</h2> 
