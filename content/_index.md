@@ -17,7 +17,7 @@ sections:
       title: Research
       text:
         <h3>Working papers</h3>
-        "Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. firms" , Job market paper
+        "Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. firms", &#40;Job market papaer&#41;
         <h3>Work in progress</h3> 
     design:
       columns: '2'
