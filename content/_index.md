@@ -11,19 +11,6 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: html
-    id: research
-    content:
-      title: Research
-      text:
-        <h2>Working papers</h2>
-        <h3>Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. Firms &#40;JMP&#41</h3>
-        <button id="toggleButton">>abstract</button>
-        <h3>Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions</h3>
-        with Jimin Oh
-        <h2>Work in progress</h2> 
-    design:
-      columns: '2'
   - block: markdown
     id: research
     content:
