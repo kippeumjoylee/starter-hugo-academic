@@ -20,7 +20,9 @@ sections:
         <h3>Strategic Network Decisions and Knowledge Spillovers Evidence from R&D Collaborations of the U.S. Firms &#40;JMP&#41</h3>
         <h3>Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions</h3>
         with Jimin Oh
-        <h2>Work in progress</h2> 
+        <h2>Work in progress</h2>
+        <h3>Identification and Estimation of Network Intensity</h3>
+        with Sinjeong Kim
     design:
       columns: '2'
   - block: markdown
