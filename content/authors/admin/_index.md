@@ -3,9 +3,9 @@ title: Kippeum Lee
 role: Ph.D. candidate in Economics
 bio: ""
 interests:
-  - Networking
+  - Applied econometrics
   - Industrial organization
-  - Econometric theory
+  - Networking
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,7 +42,7 @@ first_name: Kippeum
 email: kul598@psu.edu
 ---
 
-Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/). My research focuses on the area of **networking** with the applications in **industrial organization** and **auction**, and **networking econometric theory**, with a particular focus on interfirm networks.
+Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/). My research focuses on the area of **Applied econometrics** and **Industrial organization**, with a particular focus on **networking**. I have recently worked on the estimation of knowledge spillovers and network formation in the U.S. interfirm R&D collaborations. 
 
 I will be on the job market for the 2023-24 academic year.
 
