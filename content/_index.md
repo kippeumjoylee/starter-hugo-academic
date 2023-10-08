@@ -24,6 +24,10 @@ sections:
         </details>
         <h3>Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions</h3>
         with Jimin Oh
+        <details>
+          <summary>Abstract</summary>
+          <p>In a first-price common value auction, bidders tend to bid less aggressively in consideration of the winner's curse. It worsens when the number of bidders increases, the quality of information is poor, or they face high risks. Joint bidding could alleviate these problems and be advantageous even to a seller by relieving the winner's curse and increasing budgets, thus letting bidders bid more aggressively. Understanding how beneficial joint bidding could be is important because it could suggest whether a government should ban or allow joint bidding in procurement auctions with common value features. However, there is little empirical evidence on the effects of joint bidding in common value auctions. In this paper, we study joint bidding behavior and its impacts on bids and the winner's curse using the Outer Continental Shelf (OCS) auctions from 1954 to 1975. We suggest reduced form evidence that joint bidding increases the amounts of bids. To address the potential endogeneity problem in joint bidding, we introduce a novel instrument utilizing a new dataset of firms' office addresses recorded in lease contract agreements. Empirical results reveal that joint bidders submit approximately 75% higher bids than solo bidders on average. We then build a structural model of asymmetric common value auctions by dividing bidders into joint and solo types. Based on the estimation of the winner’s curse, we find that solo bidders experience a more substantial winner’s curse relative to joint bidders.</p>
+        </details>
         <h2>Work in progress</h2>
         <h3>Identification and Estimation of Network Intensity</h3>
         with Sinjeong Kim
