@@ -20,7 +20,7 @@ sections:
         <h3>Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. Firms &#40;JMP&#41</h3>
         <details>
           <summary>Abstract</summary>
-          <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+          <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks                 and seasonal special events.</p>
         </details>
         <h3>Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions</h3>
         with Jimin Oh
