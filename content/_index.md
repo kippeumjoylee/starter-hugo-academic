@@ -17,7 +17,7 @@ sections:
       title: Research
       text: |
         <h2>Working papers</h2>
-        <h3>Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. Firms &#40;JMP&#41</h3>
+        <h3>Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D collaborations of the U.S. Firms &#40;JMP&#41</h3>
         <details>
           <summary>Abstract</summary>
           <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
