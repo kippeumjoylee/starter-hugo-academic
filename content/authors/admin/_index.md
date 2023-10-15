@@ -18,7 +18,7 @@ social:
     link: https://www.linkedin.com/in/kippeum-lee-a2363323a/
   - icon: cv
     icon_pack: ai
-    link: static/uploads/CV_KippeumLee.pdf
+    link: "uploads/CV_KippeumLee.pdf"
 organizations:
   - name: The Pennsylvania State University
     url: ""
