@@ -17,7 +17,7 @@ sections:
       title: Research
       text: |
         <h2>Working papers</h2>
-        <ol>
+        <ol markdown="1">
           <li><strong>Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. Firms &#40;JMP&#41</strong></li>
           <details>
             <summary>Abstract</summary>
