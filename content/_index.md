@@ -30,8 +30,9 @@ sections:
           </details>
         </ol>
         <h2>Work in progress</h2>
-        <h4>Identification and Estimation of Network Intensity</h4>
-        with Sinjeong Kim
+        <ol>
+          <li><strong>Identification and Estimation of Network Intensity</strong>, with Sinjeong Kim</li>
+        </ol>
     design:
       columns: '2'
   - block: markdown
