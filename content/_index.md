@@ -18,12 +18,12 @@ sections:
       text: |
         <h2>Working papers</h2>
         <ol>
-          <li><b>Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. Firms &#40;JMP&#41</b></li>
+          <li>**Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. Firms &#40;JMP&#41**</li>
           <details>
             <summary>Abstract</summary>
             <p>This paper examines the effect of private R&D investment on productivity, considering R&D collaborations and knowledge spillovers. While existing literature emphasizes R&D’s direct effects on innovation and cost reduction, it often neglects its role in shaping collaborative networks. Investing in R&D enhances a firm's learning capacity and augments its appeal as a collaboration partner. Consequently, the effect of R&D is underestimated without accounting for its role in fostering collaborations. To bridge the gap, I develop a dynamic model of a firm that internalizes its decision on whom to collaborate with and following spillovers. This framework allows R&D to improve productivity and affect the collaboration network, with varying propensities for collaborations across firms. Using the data on firm-to-firm R&D collaborations among the U.S. firms during 1980-2001, I find the long-term effect of R&D is 16% underestimated if we ignore its subsidiary role in expanding the collaboration network. </p>
           </details>
-          <li><b>Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions</b>, with Jimin Oh</li>
+          <li>**Joint Bidding, Information Sharing, and the Winner's Curse in First-Price Common Value Auctions**, with Jimin Oh</li>
           <details>
             <summary>Abstract</summary>
             <p>In a first-price common value auction, bidders tend to bid less aggressively in consideration of the winner's curse, especially when competition, limited information, or high risks are involved. Joint bidding alleviates these problems and potentially benefits a seller by relieving the winner's curse and encouraging more aggressive bidding. The analysis on joint bidding is important for a government to ban or allow joint bidding in procurement auctions with common value features. However, there is little empirical evidence of that. In this paper, we study joint bidding behavior and its impacts on bids and the winner's curse using the Outer Continental Shelf (OCS) auctions from 1954 to 1975. We provide reduced-form evidence that joint bidding leads to bid amounts 75% higher on average by introducing a novel instrument leveraging a new dataset of firms' office addresses recorded in lease contract agreements. We further develop a structural model that allows asymmetry in bidders---joint and solo types, revealing that solo bidders experience a more substantial winner’s curse relative to joint bidders.</p>
@@ -31,7 +31,7 @@ sections:
         </ol>
         <h2>Work in progress</h2>
         <ol>
-          <li><b>Identification and Estimation of Network Intensity</b>, with Sinjeong Kim</li>
+          <li>**Identification and Estimation of Network Intensity**, with Sinjeong Kim</li>
         </ol>
     design:
       columns: '2'
