@@ -23,7 +23,7 @@ sections:
         </style>
         <h2>Working papers</h2>
         <ol>
-          <li><b>Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. Firms <i class="fa-solid fa-circle-nodes fa-lg" style="color: #286ce2;"></i> &#40;JMP&#41</b></li>
+          <li><b>Strategic Network Decisions and Knowledge Spillovers: Evidence from R&D Collaborations of the U.S. Firms &#40;JMP <i class="fa-solid fa-circle-nodes fa-lg" style="color: #286ce2;"></i>&#41</b></li>
           <details>
             <summary>Abstract</summary>
             <p align="justify">This paper examines the effect of private R&D investment on productivity, considering R&D collaborations and knowledge spillovers. While existing literature emphasizes R&D’s direct effects on innovation and cost reduction, it often neglects its role in shaping collaborative networks. Investing in R&D enhances a firm's learning capacity and augments its appeal as a collaboration partner. Consequently, the effect of R&D is underestimated without accounting for its role in fostering collaborations. To bridge the gap, I develop a dynamic model of a firm that internalizes its decision on whom to collaborate with and following spillovers. This framework allows R&D to improve productivity and affect the collaboration network, with varying propensities for collaborations across firms. Using the data on firm-to-firm R&D collaborations among the U.S. firms during 1980-2001, I find the long-term effect of R&D is 16% underestimated if we ignore its subsidiary role in expanding the collaboration network. </p>
