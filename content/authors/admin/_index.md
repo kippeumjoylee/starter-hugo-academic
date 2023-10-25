@@ -42,11 +42,9 @@ first_name: Kippeum
 email: kul598@psu.edu
 ---
 
-Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/). My research focuses on the area of **Applied econometrics** and **Industrial organization**, with a particular focus on **networking**. I have recently worked on the estimation of knowledge spillovers and network formation in the U.S. interfirm R&D collaborations. 
+Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/). My research focuses on the area of **Applied econometrics** and **Industrial organization**, with a particular focus on **networking**. I have recently worked on the estimation of knowledge spillovers and network formation in the U.S. interfirm R&D collaborations<i class="fa-solid fa-circle-nodes fa-lg" style="color: #286ce2;"></i>. 
 
-I will be on the job market for the 2023-24 academic year. 
-
-A draft of my job market paper <i class="fa-solid fa-circle-nodes fa-lg" style="color: #286ce2;"></i> will be available soon.
+I will be on the job market for the 2023-24 academic year. A draft of my job market paper will be available soon.
 
 My CV is available [here](https://kippeumlee.com/uploads/CV_KippeumLee.pdf). Reach me at kul598@psu.edu.
 
