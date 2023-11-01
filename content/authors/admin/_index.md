@@ -44,7 +44,8 @@ email: kul598@psu.edu
 
 Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/). My research interests are the areas of **Industrial Organization** and **Econometrics**. I have recently worked on the estimation of knowledge spillovers and network formation in the U.S. interfirm R&D collaborations <i class="fa-solid fa-circle-nodes fa-lg" style="color: #286ce2;"></i>. 
 
-I am on the job market for the 2023-24 academic year. Check out the latest version of my [JMP](https://kippeumlee.com/uploads/JMP_KippeumLee.pdf).
+I am on the job market for the 2023-24 academic year. 
+Check out the latest version of my [JMP](https://kippeumlee.com/uploads/JMP_KippeumLee.pdf).
 
 My CV is available [here](https://kippeumlee.com/uploads/CV_KippeumLee.pdf). Reach me at kul598@psu.edu.
 
