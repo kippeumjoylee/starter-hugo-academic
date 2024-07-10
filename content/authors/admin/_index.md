@@ -46,8 +46,6 @@ Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvani
 
 I will be on the job market for the 2023-24 academic year. 
 
-Check out the latest version of my [JMP](https://kippeumlee.com/uploads/JMP_KippeumLee.pdf).
-
 My CV is available [here](https://kippeumlee.com/uploads/CV_KippeumLee.pdf). Reach me at kul598@psu.edu.
 
 {style="text-align: justify;"}
