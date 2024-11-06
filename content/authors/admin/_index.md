@@ -1,6 +1,6 @@
 ---
 title: Kippeum Lee
-role: Ph.D. candidate in Economics
+role: ""
 bio: ""
 interests:
   - Industrial organization
@@ -20,11 +20,11 @@ social:
     icon_pack: ai
     link: https://kippeumlee.com/uploads/CV_KippeumLee.pdf
 organizations:
-  - name: The Pennsylvania State University
+  - name: Korea Institute of Public Finance (KIPF)
     url: ""
 education:
   courses:
-    - course: Ph.D. in Economics (expected)
+    - course: Ph.D. in Economics
       institution: The Pennsylvania State University
       year: 2024
     - course: M.A. in Economics
@@ -42,10 +42,8 @@ first_name: Kippeum
 email: kul598@psu.edu
 ---
 
-Hello! I am a Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/). My research interests are the areas of **Industrial Organization** and **Econometrics**. I have recently worked on the estimation of knowledge spillovers and network formation in the U.S. interfirm R&D collaborations <i class="fa-solid fa-circle-nodes fa-lg" style="color: #286ce2;"></i>. 
+Hello! I am a research associate at the [Korea Institute of Public Finance (KIPF)](https://www.kipf.re.kr/eng/index.do). I received my PhD in Economics at the Pennsylvania State University. My research interests are the areas of **Industrial Organization** and **Econometrics**. I have recently worked on the estimation of knowledge spillovers and network formation in the U.S. interfirm R&D collaborations <i class="fa-solid fa-circle-nodes fa-lg" style="color: #286ce2;"></i>. 
 
-I will be on the job market for the 2023-24 academic year. 
-
-My CV is available [here](https://kippeumlee.com/uploads/CV_KippeumLee.pdf). Reach me at kul598@psu.edu.
+My CV is available [here](https://kippeumlee.com/uploads/CV_KippeumLee.pdf). Reach me at kippeumjoylee@gmail.com.
 
 {style="text-align: justify;"}
