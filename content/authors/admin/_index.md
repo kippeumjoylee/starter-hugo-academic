@@ -39,7 +39,7 @@ status:
 last_name: Lee
 highlight_name: true
 first_name: Kippeum
-email: kul598@psu.edu
+email: kippeumjoylee@gmail.com
 ---
 
 Hello! I am a research associate at the [Korea Institute of Public Finance (KIPF)](https://www.kipf.re.kr/eng/index.do). I received my PhD in Economics at the Pennsylvania State University. My research interests are the areas of **Industrial Organization** and **Econometrics**. I have recently worked on the estimation of knowledge spillovers and network formation in the U.S. interfirm R&D collaborations <i class="fa-solid fa-circle-nodes fa-lg" style="color: #286ce2;"></i>. 
