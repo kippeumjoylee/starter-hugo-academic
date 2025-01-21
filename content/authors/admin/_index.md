@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kul598@psu.edu
+    link: mailto:kippeumjoylee@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/kippeumjoylee
