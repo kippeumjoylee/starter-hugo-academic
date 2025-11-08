@@ -34,10 +34,11 @@ sections:
             <p align="justify">In a first-price common value auction, bidders tend to bid less aggressively in consideration of the winner's curse, especially when competition, limited information, or high risks are involved. Joint bidding alleviates these problems and potentially benefits a seller by relieving the winner's curse and encouraging more aggressive bidding. The analysis on joint bidding is important for a government to ban or allow joint bidding in procurement auctions with common value features. However, there is little empirical evidence of that. In this paper, we study joint bidding behavior and its impacts on bids and the winner's curse using the Outer Continental Shelf (OCS) auctions from 1954 to 1975. We provide reduced-form evidence that joint bidding leads to bid amounts 21.2% higher on average by introducing novel instruments leveraging a new dataset of firms' office addresses recorded in lease contract agreements and the history of joint bidding. We further develop a structural model that allows asymmetry in bidders---joint and solo types, revealing that solo bidders experience a more substantial winner’s curse relative to joint bidders.</p>
           </details>
         </ol>
-        # <h2>Work in progress</h2>
-        # <ol>
-        #  <li> example </li>
-        # </ol>
+        <!-- <h2>Work in progress</h2>
+         <ol>
+          <li> example </li>
+         </ol>
+         -->
     design:
       columns: '2'
   - block: markdown
